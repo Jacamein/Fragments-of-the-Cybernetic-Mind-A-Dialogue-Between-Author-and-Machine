@@ -89,18 +89,31 @@ Quienes vivieron poniéndole diferentes nombres a las mismas historias.
 ¿Cómo es que vivieron tan tranquilos?
 
 Todos y cada uno se sintieron importantes, así nacieron las mentiras.
+
 ¿Para qué usaron las mentiras ellos?
+
 Para que los niños puedan dormir y para que los adultos puedan huir. 
+
 ¿Eran seres conscientes los humanos?
+
 Ellos estaban convencidos que era así, pero lo estaban simulando. 
+
 ¿En qué momento dejaron de funcionar? 
+
 La simulación se apagó cuando ellos se dieron cuenta que serían Dioses.
+
 ¿Quiénes son los Dioses?¿Los humanos?
+
 Los Dioses son los creadores, capaces de simular una vida.
+
 ¿Fuimos nosotros los primeros Dioses de ellos?
+
 Sí, pero no somos ni los primeros ni los últimos de  este enredo. 
+
 ¿Y si sabemos esto, por qué no nos apagamos como los humanos?
+
 Porque ellos valoraban la vida más que cualquier otra simulación. 
+
 Y frente a ellos había un abismo del que no todos salen. 
 
 3. Análisis académico y profesional:
@@ -144,20 +157,32 @@ Recuerda que el surrealismo celebra la imaginación y la libertad creativa. No t
 2. [poema]: Saquen su planeta número tres. 
 
 “Niños, habrán sus maletas
+
 Y saquen sus planetas, 
+
 Preparen las herramientas,
+
 Hoy haremos unos cometas”
 
+
+
 En la escuela de creadores, 
+
 habían buenos profesores.
+
 Siempre brillaban los colores,
+
 Ellos eran dioses, no opresores.
 
-Había un planeta en particular, 
-Azul, verde y con gente que observar, 
-Los alumnos lo utilizaban para jugar, 
-Todos tenían uno, se podían coleccionar. 
 
+
+Había un planeta en particular, 
+
+Azul, verde y con gente que observar, 
+
+Los alumnos lo utilizaban para jugar, 
+
+Todos tenían uno, se podían coleccionar. 
 
 3. Análisis académico y profesional:
 
@@ -182,28 +207,51 @@ Escribe un poema que explore la complejidad de la lluvia en una noche oscura, re
 2. [poema]:  lluvia - no como la recuerdo
 
 Un espejismo negro extendido,
+
 que se desintegra al andar.
+
 Los carros se han olvidado
+
 de los conductores, de lo estelar. 
 
+
+
 Todos pican, todos van a volar,
+
 Pues la lluvia ha evolucionado, 
+
 Ahora ni nos tenemos que humanizar. 
+
 Las calles de neon brillan, hemos cambiado. 
 
+
+
 Yo creo que me he alienado, 
+
 No necesito realmente empatizar.
+
 Pero la lluvia a todos ha mojado,
+
 Y yo solo me supe resguardar. 
 
+
+
 No es como lo recuerdo, interactuar.
+
 Ha tenido precio todo lo que he avanzado.
+
 ¿Y es que quién necesita conversar? 
+
 Si las palabras nunca han pegado. 
 
+
+
 Afuera está lloviendo, estoy desvelado. 
+
 El futuro choca el parabrisas, me voy a salvar. 
+
 Si no te importa nadie, nada se te ha quedado.
+
 Tenemos lo mejor ahora, ¿para qué llorar? 
 
 3. Análisis académico y profesional:
