@@ -36,17 +36,27 @@ Este disparador creativo puede inspirar un poema que explore las emociones y sen
 
 2. [poema]: Fuego Artificio
 
-*Incompleto como fuego artificial intelectual,
+Incompleto como fuego artificial intelectual,
+
 vienen de muy lejos los fantasmas a molestar.
+
 Hace frío y este viento se quiere llevar mi alma.
+
 Mi cerebro se llena de polvo, lo he dejado tal como estaba,
+
 no quería que se moviera nada.
+
 Para qué, si alguna noche este ventarrón te logrará traer,
+
 sentirás que estás en casa.
+
 Mira a los dos lados de mi mente antes de cruzar,
+
 desde esta ventana todo parece estar en proceso de suicidio,
+
 yo siento la fría corriente electrocutarme las mejillas,
-una estática que susurra que nada de esto fue real.*
+
+una estática que susurra que nada de esto fue real.
 
 
 3. Análisis académico y profesional:
