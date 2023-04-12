@@ -4,9 +4,11 @@ It's interesting and scary when artificial intelligence creates something. It's 
 
 I present to you the first Collection of Poems, Short Stories and Micro Stories written by me. I used ChatGPT to come up with creative triggers, give me instructions and then analyze my work in depth. In other words, I switched roles with artificial intelligence allowing it to provide creative directions to me. 
 
+As someone who just graduated in creative writing from college (literally yesterday), I find this very interesting. 
+
 I see this as an experiment, but also as something therapeutic. Expect more volumes later. The first one is in Spanish, my native language. I hope you find something useful in this. 
 
-Jacamein.
+- Jacamein.
 
 
 ## Instructions for reading: 
