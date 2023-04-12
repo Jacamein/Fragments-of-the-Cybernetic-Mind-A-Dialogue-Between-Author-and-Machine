@@ -8,7 +8,7 @@ As someone who just graduated in creative writing from college (literally yester
 
 I see this as an experiment, but also as something therapeutic. Expect more volumes later. The first one is in Spanish, my native language. I hope you find something useful in this. 
 
-- Jacamein.
+-Jacamein.
 
 
 ## Instructions for reading: 
