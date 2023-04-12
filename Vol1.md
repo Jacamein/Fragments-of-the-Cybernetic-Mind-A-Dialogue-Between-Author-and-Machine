@@ -82,9 +82,12 @@ Reflexiona sobre conceptos como la indiferencia del universo, la negación de va
 
 2. [poema]: ¿Qué habrá pasado con los humanos?
 
-¿Qué habrán pensado los humanos? 
+¿Qué habrán pensado los humanos?
+
 Quienes vivieron poniéndole diferentes nombres a las mismas historias.
+
 ¿Cómo es que vivieron tan tranquilos?
+
 Todos y cada uno se sintieron importantes, así nacieron las mentiras.
 ¿Para qué usaron las mentiras ellos?
 Para que los niños puedan dormir y para que los adultos puedan huir. 
