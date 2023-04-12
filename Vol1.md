@@ -29,12 +29,12 @@ You are now going to act as an expert in literature and fiction. You are going t
 
 ### Fuego Artificio
 
-1. Disparador creativo: 
+**1. Disparador creativo:** 
 
 Este disparador creativo puede inspirar un poema que explore las emociones y sensaciones evocadas por el sonido del viento en una noche tranquila. El poema puede explorar temas como la soledad, la nostalgia, la reflexión o la melancolía, y utilizar imágenes sensoriales para crear una atmósfera evocadora. También puede explorar cómo el viento puede simbolizar el paso del tiempo y el cambio constante en la vida. En general, este disparador creativo ofrece muchas posibilidades para que el poeta expresa sus emociones y reflexiones personales.
 
 
-2. [poema]: Fuego Artificio
+**2. [poema]: Fuego Artificio**
 
 Incompleto como fuego artificial intelectual,
 
@@ -59,7 +59,7 @@ yo siento la fría corriente electrocutarme las mejillas,
 una estática que susurra que nada de esto fue real.
 
 
-3. Análisis académico y profesional:
+**3. Análisis académico y profesional:**
 
 Primero, quiero agradecerte por compartir tu poema conmigo. A continuación, te ofreceré mi análisis y mi opinión profesional sobre tu trabajo.
 
@@ -199,12 +199,12 @@ En resumen, "Saquen su planeta número tres" es un poema que combina elementos d
 
 ### [PROMPT]: lluvia - no como la recuerdo
 
-1. Disparador creativo:
+**1. Disparador creativo:**
 
 En una noche tormentosa, el mundo se sumerge en un abismo de oscuridad y lluvia. Encuentra refugio en un lugar desolado y desértico, donde el único sonido es el de las gotas golpeando incansablemente contra el suelo y las superficies. A medida que la lluvia y los temas oscuros se entrelazan, déjate llevar por la inmensidad de la noche y contempla cómo la oscuridad se convierte en un lienzo para tu poema.
 Escribe un poema que explore la complejidad de la lluvia en una noche oscura, resaltando cómo puede llegar a ser tanto un consuelo en tiempos difíciles como una manifestación de la melancolía y la soledad. Juega con las imágenes visuales y sonoras de la lluvia, las sombras y la noche, y crea una atmósfera envolvente y emocional. Utiliza metáforas y símiles para establecer paralelismos entre los elementos del clima y los sentimientos humanos más profundos. Encuentra belleza en el caos y desesperanza, y descubre cómo la lluvia puede ser un espejo de la condición humana.
 
-2. [poema]:  lluvia - no como la recuerdo
+**2. [poema]:  lluvia - no como la recuerdo**
 
 Un espejismo negro extendido,
 
@@ -254,7 +254,7 @@ Si no te importa nadie, nada se te ha quedado.
 
 Tenemos lo mejor ahora, ¿para qué llorar? 
 
-3. Análisis académico y profesional:
+**3. Análisis académico y profesional:**
 
 El poema presenta una visión melancólica y oscura de un mundo cambiante, donde la lluvia se convierte en un reflejo del aislamiento y la desconexión entre los seres humanos. El poema está estructurado en cinco estrofas, cada una compuesta por cuatro versos, lo que le proporciona una estructura sólida y fácil de seguir.
 
@@ -269,12 +269,12 @@ En resumen, "lluvia - no como la recuerdo" es un poema que utiliza la lluvia y l
 
 ### [PROMPT] : Creo que me das miedo. 
 
-1. Disparador creativo: 
+**1. Disparador creativo:** 
 
 Escribe un cuento en el que el protagonista y su misteriosa amante, pasan una última noche juntos en una mansión encantada, mientras la luna llena y gigantesca brilla en el cielo. Describa cómo su relación termina entre susurros y confidencias, mientras el ambiente de la mansión se vuelve cada vez más extraño e inquietante. Juega con los elementos de terror y suspense mientras el relato avanza hacia su sorprendente y escalofriante final.
 
 
-2. [cuento]: Creo que me das miedo. 
+**2. [cuento]: Creo que me das miedo.** 
 
 “La luna se va a caer” dijo Eloisa señalando con su dedo hacia la ventana. Su pelo negro regado en el sofa, se acostaba en mis piernas y de vez en cuando me miraba con hambre, seductoramente inocente. Afuera, la luna se veía gigante, estábamos a oscuras pero aún así teníamos luz para ver nuestros cuerpos desnudos. Mis dedos esquiaban por su piel, yo sabía que esta sería la última vez, que nada tenía sentido y que por la mañana ella ya se habrá ido. 
 
@@ -302,7 +302,7 @@ En ese momento me di cuenta que yo no tenía brazos, en su lugar tenía una cica
 
 Las lágrimas caían, mi respiración estaba agitada y solo respondí con bastante dificultad: “Creo que me das miedo”. ¿Les dije que Eloisa estaba muerta y que yo la maté?
 
-3. Análisis académico y profesional:
+**3. Análisis académico y profesional:**
 
 El cuento "Creo que me das miedo" es un relato de terror psicológico que mezcla elementos sobrenaturales y situaciones inquietantes con una atmósfera de tensión y ambigüedad. La narración en primera persona sitúa al lector en la perspectiva del protagonista, generando una mayor identificación con su experiencia y sus emociones.
 
@@ -319,7 +319,7 @@ En conclusión, "Creo que me das miedo" es un cuento de terror psicológico que 
 
 ### [PROMPT] "El Reloj del Tiempo Perdido"
 
-1. Disparador creativo.
+**1. Disparador creativo.**
 
 Estimados escritores,
 
@@ -338,7 +338,7 @@ Instrucciones:
 
 Recuerden que la creatividad no tiene límites y este disparador es solo una base para inspirar sus historias. ¡Buena suerte y feliz escritura!
 
-2. [CUENTO]: "El Reloj del Tiempo Perdido"
+**2. [CUENTO]: "El Reloj del Tiempo Perdido"**
 
 La muerte creó el tiempo, eso lo sabía el viejo Gary “Skinny Ape” Lowe. Provenía de una antigua familia de campesinos que parecía haber vivido una eternidad en la misma colina. Todo había pasado de generación en generación: la casa, los cultivos, establos y, por supuesto, el taller embrujado.
 
@@ -382,7 +382,7 @@ Esta vez hasta el fondo. Quería no solo ser como los humanos de acero que vio e
 
 “Aún así, perdiste la vida en el intento”, respondió el Skinny Ape superior.
 
-3. Análisis académico y profesional:
+**3. Análisis académico y profesional:**
 
 Título del cuento: "El Reloj del Tiempo Perdido"
 
@@ -405,7 +405,7 @@ En general, "El Reloj del Tiempo Perdido" es un cuento intrigante y reflexivo qu
 
 ### [PROMPT]: No hay estrellas. 
 
-1. Disparador creativo. 
+**1. Disparador creativo.** 
 
 Título: "El eco de las estrellas olvidadas"
 
@@ -420,36 +420,61 @@ Sugerencias para desarrollar el poema:
 * Utiliza metáforas y símiles para comparar la ausencia de las estrellas con situaciones o emociones humanas.
 * Concluye el poema con un mensaje de esperanza o resignación, según el tono y el enfoque que prefieras.
 
-2. [poema]: No hay estrellas. 
+**2. [poema]: No hay estrellas.** 
 
 Ninguna de ellas querrá venir. 
+
 Luna pequeña, hoy no quiso salir. 
+
 Todo lo contrario, se puso a tejer.
+
 Una red de fugaces mentiras de ayer.
+
 Tapó las perforaciones del cielo.
+
 Las estrellas castigadas, oscurecieron.
+
 Ya no podíamos ver el firmamento, 
+
 Y esperar encontrarnos al pasado, 
+
 Ya tu fantasma se trepa en el asiento, 
+
 Y mis ojos brillan, me tienes preocupado. 
+
 Cierto que no vas a volver, se me olvidó. 
+
 Dije que iba a estar limpio, también se me olvidó. 
+
 Sostén mi trago, tengo que manejar la situación. 
+
 El cielo estrellado estará en mi parabrisas. 
+
 La vida es una sonrisa maniática fugaz,
+
 Un destello en medio del nihilismo. 
+
 Salvese quien se convierta en una estrella.
+
 Salvese quien pinte sin oreja y con locura.
+
 Todavía encuentro constelaciones en tus lunares, 
+
 Todavía me haces ruido cuando no estás (y nunca estás).
+
 Como un eco ahogado en alcohol, yo voy a toda velocidad.
+
 Nadie me sintió, llegué como una celebridad.
+
 Tu cuerpo desnudo en mi mente,
+
 Mi cuerpo estrellado al frente. 
+
 Ella me viste con el manto negro, 
+
 como una noche sin estrellas.
 
-3. Análisis académico y profesional:
+**3. Análisis académico y profesional:**
 
 El poema presenta un enfoque interesante sobre la ausencia de estrellas en el cielo y cómo esta situación se relaciona con la vida del hablante lírico. Se puede apreciar un juego de imágenes y metáforas que conectan el escenario del cielo sin estrellas con el estado emocional del hablante, abordando temas como el recuerdo, la nostalgia, la pérdida y la búsqueda de significado.
 
@@ -467,7 +492,7 @@ En conclusión, este poema captura de manera efectiva la esencia del disparador 
 
 ### [PROMPT]:  "El último susurro del bosque"
 
-1. Disparador creativo: 
+**1. Disparador creativo:** 
 
 Título del disparador creativo: "El último susurro del bosque"
 
@@ -476,7 +501,7 @@ Imagina un bosque antiguo y misterioso, donde cada árbol esconde una historia q
 Eres un escritor que ha llegado a este bosque en busca de inspiración. Un día, mientras caminas entre los árboles, encuentras un antiguo libro en blanco abandonado en el suelo, junto a un árbol moribundo. Al abrirlo, escuchas el último susurro de ese árbol, una historia que nunca antes había sido contada.
 Escribe un microcuento en el que el protagonista, el escritor, debe decidir qué hacer con este último susurro. ¿Deberá guardar el secreto del árbol y dejar que la historia se pierda, o compartirlo con el mundo y correr el riesgo de cambiar el destino del bosque para siempre? Explora las implicaciones éticas y emocionales de su decisión, y cómo afecta su relación con el bosque y su propia creatividad.
 
-2. microcuento]: El último susurro del bosque.
+**2. microcuento]: El último susurro del bosque.**
 
 Yo solo quería estar perdido.
 
@@ -497,7 +522,7 @@ Sonó como si se quebrará una rama o más bien como alguien que abruptamente fr
 
 Yo solo quería estar perdido.
 
-3. Análisis académico y profesional:
+**3. Análisis académico y profesional:**
 
 El microcuento presenta una atmósfera oscura y melancólica, que se construye a través de la descripción del bosque embrujado y la experiencia del protagonista. La pérdida de su familia y su deseo de estar perdido en el bosque reflejan el dolor y la desesperación que enfrenta. La narrativa se desarrolla a partir de este punto de partida emocional, lo que permite al lector identificarse con el personaje y comprender sus motivaciones.
 
@@ -511,37 +536,56 @@ En resumen, este micro cuento presenta una narrativa intrigante y emotiva que ex
 
 ### [PROMPT] Poema luz y oscuridad
 
-1. Disparador creativo: 
+**1. Disparador creativo:** 
 
 Escribe un poema que explore el contraste entre la luz y la oscuridad en el contexto de las emociones humanas, utilizando metáforas y simbolismos relacionados con el amanecer y el anochecer. (Por favor, toma un momento para escribir el poema y luego compártelo para que pueda proceder con el análisis y deconstrucción profesional.)
 
 
-2. [poema]: “Un resumen de la humanidad” 
+**2. [poema]: “Un resumen de la humanidad”** 
 
 Cuando amaneció aprendimos a hablar,
+
 A esa hora solo teníamos imaginación para explicarlo todo.
+
 La religión cayó como un copo de nieve,
+
 Tan solo una inofensiva blanca mentira. 
+
 Esta rodó mientras la mañana seguía. 
+
 Todos se pasaron hablando del cambio,
+
 Pero por dentro estaban asustados de hacerlo. 
+
 Nos muerde el mediodía con revoluciones, 
+
 Que no hacían más que girar la rueda, 
+
 La cual se repetía, y repetía y volvía a repetirse.
+
 De repente, aquel copo de nieve que descuidamos,
+
 Se había convertido en una avalancha, 
+
 Para las 3 de la tarde la crucificamos a la religión, 
+
 Unos la trajeron de vuelta, otros las pusieron a pelear. 
+
 Cuando el reloj golpeó las 5 ya éramos Dioses, 
+
 Sacrificamos la humanidad para poder ver la noche.
+
 La cual disfrazada de sueños y descanso, 
+
 No hace más que alienarme de cualquier propósito que existió. 
+
 Ya casi son las 12 y ya no recuerdo por qué desperté. 
+
 Se acabó el día y recién ahí vimos que nos robamos la humanidad. 
 
 
 
-3. Análisis académico y profesional:
+**3. Análisis académico y profesional:**
 
 Temas principales:
 
@@ -577,11 +621,11 @@ Al analizar el poema "Un resumen de la humanidad" de manera profunda y exhaustiv
 
 ### [prompt]: criatura de noche
 
-1. Disparador creativo: Lucky me, I see ghosts. 
+**1. Disparador creativo: Lucky me, I see ghosts.** 
 
 "Después de una larga noche de tormenta, el protagonista sale a caminar por el bosque para despejar su mente. Pero en lugar de encontrar la calma que buscaba, se topa con una criatura extraña que parece necesitar su ayuda. La criatura le pide que la acompañe en una misión importante, pero para lograrla tendrán que adentrarse aún más en el bosque, donde los peligros son desconocidos. ¿Aceptará el protagonista la petición de la criatura y se arriesgará a enfrentar los peligros del bosque?"
 
-2. [cuento]: Lucky me, I see ghosts. 
+**2. [cuento]: Lucky me, I see ghosts.** 
 
 “¿Por qué debería seguirte? Eres un fantasma” dijo sin parpadear, haciendo contacto visual con el fantasma, quien parecía ponerse incomodo con la mirada desconfiada del niño. 
 
@@ -597,7 +641,7 @@ El niño en ese momento se dio cuenta de que no sabía cuanto tiempo había pasa
 La neblina no le permitía ver nada, lo único que veía era un bosque que se la hacia familiar. 
 “¿Y el niño? “ Pensó el niño que también era el fantasma. 
 
-3. Análisis académico y profesional:
+**3. Análisis académico y profesional:**
 
 Este cuento es interesante por varias razones. En primer lugar, el disparador creativo de "un protagonista que se encuentra con una criatura extraña en el bosque" ha sido adaptado de manera creativa por el autor. En lugar de una criatura extraña, el protagonista se encuentra con un fantasma, lo que le da un giro interesante a la historia. Además, el diálogo entre el niño y el fantasma es convincente y ayuda a establecer el tono y la atmósfera misteriosa del bosque embrujado.
 
