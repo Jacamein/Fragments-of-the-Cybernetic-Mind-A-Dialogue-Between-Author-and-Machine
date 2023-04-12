@@ -72,15 +72,15 @@ En cuanto a las críticas, noto que el poema podría beneficiarse de una revisi�
 En resumen, creo que tu poema es un buen trabajo creativo que utiliza imágenes y sensaciones poderosas para evocar una sensación de vulnerabilidad y temor. Aunque podría beneficiarse de una revisión cuidadosa para mejorar la sintaxis y la gramática, el poema es, en general, efectivo en su evocación de emociones y sensaciones. ¡Gracias por compartir tu trabajo conmigo!
 
 
-### [PROMPT]: ¿Qué habrá pasado con los humanos?
+### ¿Qué habrá pasado con los humanos?
 
-1. Disparador creativo: 
+**1. Disparador creativo:** 
 
 Imagina que te encuentras en un paisaje desolado y sombrío, donde la oscuridad es la única constante y el silencio reina absoluto. En este escenario, te enfrentas al abismo del sinsentido, una representación del nihilismo que parece consumir todo a su paso. Escribe un poema que explore la relación entre el individuo y este abismo, y cómo la falta de significado y propósito puede afectar nuestras vidas y percepciones.
 
 Reflexiona sobre conceptos como la indiferencia del universo, la negación de valores morales absolutos y la inutilidad de la existencia humana frente a la inmensidad del cosmos. No dudes en utilizar metáforas, imágenes y contrastes para evocar emociones y pensamientos profundos en tus lectores. Atrévete a sumergirte en el abismo del sinsentido y descubrir qué revelaciones pueden surgir de la oscuridad del nihilismo.
 
-2. [poema]: ¿Qué habrá pasado con los humanos?
+**2. [poema]: ¿Qué habrá pasado con los humanos?**
 
 ¿Qué habrán pensado los humanos?
 
@@ -116,7 +116,7 @@ Porque ellos valoraban la vida más que cualquier otra simulación.
 
 Y frente a ellos había un abismo del que no todos salen. 
 
-3. Análisis académico y profesional:
+**3. Análisis académico y profesional:**
 
 El cuento "¿Qué habrá pasado con los humanos?" aborda la temática del nihilismo y la falta de sentido en la vida humana mediante el uso de preguntas retóricas y respuestas concisas. Estas preguntas y respuestas funcionan como un diálogo interior o una conversación entre dos entidades, quizás una representación de la humanidad y sus creaciones. La estructura del cuento refleja un estilo interrogativo que permite al lector reflexionar sobre las preguntas planteadas.
 
@@ -136,9 +136,9 @@ El abismo también puede simbolizar la incertidumbre y el miedo a lo desconocido
 En conclusión, la adición de esta línea al final del cuento "¿Qué habrá pasado con los humanos?" refuerza la temática del nihilismo y la lucha por encontrar significado en la vida, al tiempo que conecta de manera más explícita con el disparador creativo original. La imagen del abismo existencial resalta la dificultad de enfrentarse a la falta de propósito y valores absolutos en un mundo lleno de simulaciones y autoengaño.
 
 
-### [PROMPT]: Saquen su planeta número tres.
+### Saquen su planeta número tres.
 
-1. Disparador creativo:
+**1. Disparador creativo:**
 
 Imagina que te encuentras en un mundo de sueños, donde lo ilógico se convierte en realidad y las emociones se materializan. En este paisaje surrealista, los objetos se transforman, desafiando las leyes de la física y la lógica. Los colores son más vivos de lo que jamás hayas visto, y las sombras cobran vida propia. Los límites entre lo consciente y lo inconsciente se difuminan, creando un espacio de infinitas posibilidades.
 
@@ -154,7 +154,7 @@ Montañas flotantes
 Un cielo poblado de peces voladores
 Recuerda que el surrealismo celebra la imaginación y la libertad creativa. No tengas miedo de romper las reglas y de explorar lo desconocido. En este poema, lo imposible se vuelve posible, y la realidad se convierte en un lienzo para tus pensamientos más profundos y caprichosos.
 
-2. [poema]: Saquen su planeta número tres. 
+**2. [poema]: Saquen su planeta número tres.** 
 
 “Niños, habrán sus maletas
 
@@ -184,7 +184,7 @@ Los alumnos lo utilizaban para jugar,
 
 Todos tenían uno, se podían coleccionar. 
 
-3. Análisis académico y profesional:
+**3. Análisis académico y profesional:**
 
 El poema "Saquen su planeta número tres" es una obra que combina elementos del surrealismo con un enfoque lúdico y educativo. La estructura del poema consta de cuatro estrofas, cada una compuesta por cuatro versos en rima consonante, lo que le otorga un tono melódico y agradable al oído.
 
